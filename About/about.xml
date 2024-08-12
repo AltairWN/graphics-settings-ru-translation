@@ -3,11 +3,11 @@
     <name>Graphics Settings+ ru (Continued)</name>
     <author>Nevelian</author>
     <supportedVersions>
+        <li>1.4</li>
         <li>1.5</li>
     </supportedVersions>
-    <packageId>graphicssettings.ru</packageId>
-    <description>Перевод на русский язык
-    </description>
+    <packageId>AWN.Mod</packageId>
+    <description>Перевод на русский язык</description>
     <loadAfter>
         <li>Telefonmast.GraphicsSettings</li>
     </loadAfter>
